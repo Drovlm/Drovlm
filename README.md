@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mudar</h1>
 <h3 align="left">Ask me:</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+
+
 <p align="left">
 <a href="https://instagram.com/mudar_jannoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudar_jannoud" height="30" width="40" /></a>
 <a href="https://discord.gg/Drovlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Drovlm" height="30" width="40" /></a>
