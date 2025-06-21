@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I+am+Mudar.;I+love+developing+websites.;&center=true&width=500&height=50"></a>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I+am+Mudar.;I+love+developing+websites.;&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -31,11 +32,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drovlm&theme=algolia&layout=compact" />
