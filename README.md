@@ -2,11 +2,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I+am+Mudar.;I+love+developing+websites.;&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left">Stay on touch:</p>
-<p align="left">
-<a href="https://instagram.com/mudar_jannoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudar_jannoud" height="30" width="40" /></a>
-<a href="https://discord.gg/769614957732954122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="769614957732954122" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
